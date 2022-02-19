@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import App from "./App";
-import IndexContextProvider from "./indexContext";
+import IndexContextProvider from "./IndexContext";
 
 ReactDOM.render(
 	<React.StrictMode>

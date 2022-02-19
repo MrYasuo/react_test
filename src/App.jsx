@@ -1,7 +1,7 @@
 import { useState, useContext, useRef } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import { IndexContext } from "./indexContext";
+import { IndexContext } from "./IndexContext";
 import MyInput from "./MyInput";
 
 function App() {
